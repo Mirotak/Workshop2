@@ -1,5 +1,5 @@
 # Workshop2
 SQL in Java
 
-## Workshop1
+## Workshop2
 
